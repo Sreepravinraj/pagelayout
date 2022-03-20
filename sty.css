@@ -1,0 +1,33 @@
+#leftbox {
+    padding: -1%;
+    float:left; 
+    width:25%;
+    border: 3px groove green;
+    border-radius: 20px; 
+     height: 20%; 
+     background-origin: padding-box;
+     margin-right: 12%;
+     margin-bottom: 2%;
+    
+}
+#middlebox{
+    float: left; 
+    
+    border: 3px groove green;
+    border-radius: 20px;
+     height: 20%;
+      background-origin: padding-box;
+    width:25%;
+    margin-bottom: 2%;
+    
+}
+#rightbox{
+    float:right;
+    border: 3px groove green;
+    border-radius: 20px;   
+height: 20%; 
+background-origin: padding-box;
+    width:25%;
+    margin-bottom: 2%;
+
+}
